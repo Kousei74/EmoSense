@@ -1,4 +1,4 @@
-# Emotion Detection Web Application
+# EmoSense
 
 This project demonstrates the creation and deployment of an emotion detection web application using Watson AI and Flask. The application goes beyond sentiment analysis by detecting more nuanced emotions such as joy, sadness, and anger from text inputs.
 
