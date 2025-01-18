@@ -50,7 +50,7 @@ Performed static code analysis to check for potential issues and maintain high c
 ## How to Run the Application
 
 1. Clone the repository:  
-   `git clone https://github.com/Nooraldin2001/Final-Project-Emotion-Detector.git`
+   `git clone https://github.com/Kousei74/EmoSense.git`
    
 2. Install dependencies:  
    `pip install -r requirements.txt`
